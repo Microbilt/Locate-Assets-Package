@@ -39,7 +39,7 @@ PropertySearchRequestModel reqModel = new PropertySearchRequestModel()
         StateProv = "CA",
         PostalCode = "94509"
       }
-});
+};
 ```
 You can Serialize model for use with extension method ```.ToJson()``` in 'Extensions.cs'
 
